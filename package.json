@@ -1,0 +1,19 @@
+{
+  "name": "uzuna",
+  "version": "1.0.0",
+  "description": "A Steam chat bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xwilarg/Uzuna.git"
+  },
+  "author": "Xwilarg",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Xwilarg/Uzuna/issues"
+  },
+  "homepage": "https://github.com/Xwilarg/Uzuna#readme"
+}
